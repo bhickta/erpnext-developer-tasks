@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Quick Start
+##  Quick Start
 
 1. Read [Environment Setup Guide](assignments/shared/setup/SETUP_GUIDE.md)
 2. Complete [Verification Checklist](assignments/shared/setup/VERIFICATION.md)
@@ -40,7 +40,7 @@ assignments/
 
 ---
 
-## 🎯 Entry Level Assignment
+##  Entry Level Assignment
 
 ### What You'll Build
 
@@ -75,7 +75,7 @@ A **Library Management System** with:
 
 ---
 
-## 📚 Documentation Guide
+##  Documentation Guide
 
 ### Before You Start
 
@@ -99,7 +99,7 @@ A **Library Management System** with:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Step 1: Environment Setup
 
@@ -137,7 +137,7 @@ Follow the tasks in [assignments/entry/README.md](assignments/entry/README.md)
 
 ---
 
-## 📤 Submission
+##  Submission
 
 ### What to Submit
 
@@ -148,7 +148,7 @@ Follow the tasks in [assignments/entry/README.md](assignments/entry/README.md)
 
 ### How to Submit
 
-Email to: `[hiring-email@company.com]`
+Email to: `[]`
 
 **Subject**: `ERPNext Entry Level Assignment - [Your Name]`
 
@@ -163,7 +163,7 @@ Email to: `[hiring-email@company.com]`
 
 ---
 
-## ❓ Getting Help
+##  Getting Help
 
 ### Common Issues
 
@@ -175,7 +175,7 @@ Check [SETUP_GUIDE.md](assignments/shared/setup/SETUP_GUIDE.md) "Common Issues" 
 
 ### Ask Questions
 
-**Email**: [support-email@company.com]  
+**Email**: [raplsfsolutions@gmail.com]  
 **Response Time**: Within 24 hours (business days)
 
 **What to include**:
@@ -186,7 +186,7 @@ Check [SETUP_GUIDE.md](assignments/shared/setup/SETUP_GUIDE.md) "Common Issues" 
 
 ---
 
-## 📖 Resources
+## Resources
 
 ### Official Documentation
 
@@ -216,7 +216,7 @@ You'll be successful if you:
 
 ---
 
-## 💡 Tips for Success
+##  Tips for Success
 
 ### Do's
 
@@ -228,15 +228,15 @@ You'll be successful if you:
 
 ### Don'ts
 
-- ❌ **Skip verification**: Complete the checklist
-- ❌ **Ignore details**: Field types and settings matter
-- ❌ **Copy blindly**: Understand what you're doing
-- ❌ **Submit untested**: Test everything first
-- ❌ **Miss deadline**: Plan your time
+-  **Skip verification**: Complete the checklist
+-  **Ignore details**: Field types and settings matter
+-  **Copy blindly**: Understand what you're doing
+-  **Submit untested**: Test everything first
+-  **Miss deadline**: Plan your time
 
 ---
 
-## 🎓 What's Next?
+##  What's Next?
 
 After completing this assignment:
 
@@ -246,12 +246,12 @@ After completing this assignment:
 
 ---
 
-**Good luck! We're excited to see what you build.** 🚀
+**Good luck! We're excited to see what you build.** 
 
 ---
 
 ## Contact
 
 For questions or issues:
-- **Technical Support**: [support-email@company.com]
-- **General Inquiries**: [hiring-email@company.com]
+- **Technical Support**: [raplsfsolutions@gmail.com]
+- **General Inquiries**: [raplsfsolutions@gmail.com]

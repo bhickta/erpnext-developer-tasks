@@ -1,12 +1,12 @@
 # ERPNext Entry Level Developer Assignment - Complete Package
 
-## 📦 What's Included
+## What's Included
 
 This repository contains a complete, production-ready technical assignment for evaluating entry-level ERPNext developers (0-1 years experience).
 
 ---
 
-## 📁 Complete File Structure
+##  Complete File Structure
 
 ```
 assignments/
@@ -37,7 +37,7 @@ assignments/
 
 ---
 
-## 🎯 Assignment Overview
+##  Assignment Overview
 
 ### What Candidates Will Build
 
@@ -48,12 +48,12 @@ A **Library Management System** with:
 
 ### Skills Evaluated
 
-- ✅ ERPNext environment setup
-- ✅ DocType creation and configuration
-- ✅ Basic Python validation logic
-- ✅ Field types and relationships
-- ✅ Manual testing documentation
-- ✅ Git workflow basics
+-  ERPNext environment setup
+-  DocType creation and configuration
+-  Basic Python validation logic
+-  Field types and relationships
+-  Manual testing documentation
+-  Git workflow basics
 
 ### Time Estimate
 
@@ -66,7 +66,7 @@ A **Library Management System** with:
 
 ---
 
-## 📚 Documentation Guide
+##  Documentation Guide
 
 ### For Candidates
 
@@ -90,7 +90,7 @@ A **Library Management System** with:
 
 ---
 
-## 🚀 Quick Start (For Candidates)
+##  Quick Start (For Candidates)
 
 ### Step 1: Read Documentation
 ```bash
@@ -128,7 +128,7 @@ Follow: [assignments/entry/README.md](assignments/entry/README.md)
 
 ---
 
-## ✅ Evaluation Criteria
+##  Evaluation Criteria
 
 ### Scoring Breakdown (100 points)
 
@@ -146,7 +146,7 @@ Follow: [assignments/entry/README.md](assignments/entry/README.md)
 
 ---
 
-## 📤 Submission Requirements
+##  Submission Requirements
 
 ### What Candidates Submit
 
@@ -170,32 +170,32 @@ Follow: [assignments/entry/README.md](assignments/entry/README.md)
 
 ---
 
-## 🎓 Key Features
+##  Key Features
 
 ### Modular Structure
-- ✅ Separate task files (not monolithic)
-- ✅ Clear navigation between documents
-- ✅ Progressive difficulty
+-  Separate task files (not monolithic)
+-  Clear navigation between documents
+-  Progressive difficulty
 
 ### Comprehensive Guidance
-- ✅ Step-by-step instructions
-- ✅ Code examples provided
-- ✅ Common issues documented
-- ✅ Troubleshooting tips
+-  Step-by-step instructions
+-  Code examples provided
+-  Common issues documented
+-  Troubleshooting tips
 
 ### Production-Ready
-- ✅ Real-world scenarios
-- ✅ Best practices enforced
-- ✅ Professional standards
-- ✅ Industry-standard Git workflow
+-  Real-world scenarios
+-  Best practices enforced
+-  Professional standards
+-  Industry-standard Git workflow
 
 ### Self-Contained
-- ✅ No external dependencies
-- ✅ All templates included
-- ✅ Complete evaluation rubric
-- ✅ Can be handed directly to candidates
+-  No external dependencies
+-  All templates included
+-  Complete evaluation rubric
+-  Can be handed directly to candidates
 
-## 📊 Success Metrics
+##  Success Metrics
 
 ### For Candidates
 
@@ -218,18 +218,18 @@ Follow: [assignments/entry/README.md](assignments/entry/README.md)
 
 ---
 
-## 💡 Tips for Evaluators
+##  Tips for Evaluators
 
 ### What to Look For
 
-**Green Flags** ✅:
+**Green Flags** :
 - Follows instructions exactly
 - Clean, readable code
 - Comprehensive testing
 - Professional communication
 - Good time management
 
-**Red Flags** ❌:
+**Red Flags** :
 - Skipped verification steps
 - Copy-pasted code without understanding
 - No testing documentation
@@ -246,10 +246,10 @@ Follow: [assignments/entry/README.md](assignments/entry/README.md)
 
 ---
 
-## 📞 Support
+##  Support
 
 ### For Candidates
-- Technical questions: [support-email@company.com]
+- Technical questions: [raplsfsolutions@gmail.com]
 - Response time: Within 24 hours (business days)
 
 ### For Evaluators
@@ -258,16 +258,16 @@ Follow: [assignments/entry/README.md](assignments/entry/README.md)
 
 ---
 
-## 📝 License
+##  License
 
 This assignment template is provided as-is for evaluation purposes. Customize as needed for your organization.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 Built for evaluating ERPNext developers at all levels. Focuses on practical, production-oriented skills.
 
 ---
 
-**Ready to use! Hand this to your candidates and start evaluating.** 🚀
+**Ready to use! Hand this to your candidates and start evaluating.** 
